@@ -1,2 +1,5 @@
 # arc-tools
-Lightweight R utilities and helpers (arc-tools)
+
+Lightweight `R` utilities maintained by @a57rallab.
+
+- Focus: Simplifying legacy codebases one pull request at a time.
